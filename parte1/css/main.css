@@ -1,1 +1,24 @@
 /* Pon tu código css aqui */
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.box {
+	width: 200px;
+	height: 200px;
+	position: static;
+}
+
+.rosado {
+	background-color: #ee3e64;
+	
+}
+
+.celeste {
+	background-color: #44accf;
+}
+
+.verde {
+	background-color: #b7d84b;
+}
